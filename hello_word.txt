@@ -1,1 +1,2 @@
 Bonjour je suis au base dans de developpement web
+aujourd'hui je prend des cour sur git et gihub part a part
